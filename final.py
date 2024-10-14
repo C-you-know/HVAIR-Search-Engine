@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from fuzzywuzzy import process # type: ignore
+from fuzzywuzzy import process 
 import json, sys
 
 def FormatRow(Row):
