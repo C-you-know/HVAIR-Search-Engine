@@ -18,7 +18,7 @@ The goals of the system are:
  - High Specificity of Results
  - A certain degree of spelling errors is accepted
 
- ## The Dataset
+ ## Dataset
 
 ### Load the dataset
 
