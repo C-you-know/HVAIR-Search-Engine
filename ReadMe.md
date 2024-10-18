@@ -20,6 +20,8 @@ The goals of the system are:
 
  ## Dataset
 
+ The dataset has 21176 ecommerce products and they together have a subset of 3249 attributes. In the dataset, there are 16083 unique items all having diffrent features. The primary key of the dataset is the ```id```. If an item doesn't have a value for an attribute, it is populated with a NULL value.   
+
 ### Load the dataset
 
 The data is loaded using the ```"pd.read_json()"``` and immediately converted into a pandas dataframe. I have used pandas dataframe because it underscores the high dissimilarity between the attributes of the dataset.
